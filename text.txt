@@ -1,0 +1,3 @@
+So, I recently followed a tutorial by Tim from Tech With Tim, with him building a finance tracker. I will now attempty to make my own without following any video or looking at the code. I will just write a program with my own current knowledge. Then I will ask chat gpt how I can use pandas, numpy, seaborn and matplotlib to enhance my project. 
+
+I have passion behind this idea because it could be useful to my mom to track expenses from bank of america and other banks. They have different csv file types so that will be a hurdle but anyway lets make a plan. 
